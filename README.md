@@ -1,8 +1,10 @@
-Kanto Expansion Pak
+Kanto Expanded Expansion Pak
 ===================
 This is a ROM Hack of Pokémon Red and Blue, aiming to expand the Kanto region with new Kanto-related Pokemon, more interesting locations, and QoL changes. It is a port of my [Pokemon Showdown Mod](https://github.com/PlagueVonKarma?tab=repositories), in a sense.
 
 If playing on an emulator, BGB is strongly recommended for its accuracy and features. Inaccurate emulators, such as VBA and TGB Dual, can experience unintended glitches. This hack is fully playable on official hardware as well.
+
+(This documentation is mostly unchanged from KEP, currently under construction!)
 
 New Pokemon
 ====
